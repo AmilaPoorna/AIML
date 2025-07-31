@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    Amila:
+      name: Amila Poorna
+      password: '$2b$12$bviVe0zUxbefWIoU8OAWVOV8oH3o.HoDL8dZKCJcDtlk/LCrS2i1a'
+cookie:
+  name: telecom_auth_cookie
+  key: 2d8f1a3b9c7e4f3aab5c6d8e9f0a1b2c
+  expiry_days: 1
+preauthorized:
+  emails: []

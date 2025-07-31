@@ -1,3 +1,6 @@
 ipykernel
 pandas
 chardet
+streamlit
+streamlit_authenticator
+PyYAML
