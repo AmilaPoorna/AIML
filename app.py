@@ -74,9 +74,9 @@ elif auth_status:
 
         load_dotenv()
 
-        groq_api_key = os.getenv('GROQ_API_KEY')
+        api_key = st.secrets["groq"]["api_key"]
 
-        llm = ChatGroq(groq_api_key=groq_api_key, model_name="Llama3-8b-8192")
+        llm = ChatGroq(groq_api_key=api_key, model_name="Llama3-8b-8192")
 
         prompt = ChatPromptTemplate.from_template(
             """
