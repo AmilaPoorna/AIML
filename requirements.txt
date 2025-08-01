@@ -2,5 +2,11 @@ ipykernel
 pandas
 chardet
 streamlit
-streamlit_authenticator
+streamlit-authenticator==0.3.2
 PyYAML
+langchain_core
+python-dotenv
+langchain_community
+faiss-cpu
+groq
+langchain-groq
