@@ -1,6 +1,10 @@
 ipykernel
 pandas
+numpy
 chardet
+scikit-learn
+matplotlib
+seaborn
 streamlit
 streamlit-authenticator==0.3.2
 PyYAML

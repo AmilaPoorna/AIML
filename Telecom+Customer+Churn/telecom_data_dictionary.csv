@@ -1,13 +1,13 @@
 
-A customer's gender is either male or female.
-Customers are primary located in California.
-Marketing offers that are offered are offer A, offer B, offer C, offer D, offer E.
-Average long distance charges are 0 for a customer if the customer is not subscribed to home phone service.
-A customer's type of internet connection can be either DSL, fiber optic, cable and None.
-Average download volume in gigabytes are 0 for a customer if the customer is not subscribed to internet service.
-Online security, online backup, device protection plan, premium tech support, streaming TV, streaming movies, streaming music and unlimited data services are not offered if the customer is not subscribed to internet service.
-Contract types offered to a customer are month-to-month, one year and two year.
-Customer pays their bill using either bank withdrawal, credit card, mailed check.
-Total revenue is calculated using the following equation.
-Total revenue = total charges - total refurnds + total extra data charges + total long distance charges.
-A customer's reason for churning can generally be categorized as attitude, competition, dissatisfaction, price, or other.
+"A customer's gender is either male or female.""
+"Customers are primary located in California."
+"Marketing offers that are offered are offer A, offer B, offer C, offer D, offer E."
+"Average long distance charges are 0 for a customer if the customer is not subscribed to home phone service."
+"A customer's type of internet connection can be either DSL, fiber optic or cable"
+"Average download volume in gigabytes are 0 for a customer if the customer is not subscribed to internet service."
+"Online security, online backup, device protection plan, premium tech support, streaming TV, streaming movies, streaming music and unlimited data services are not offered if the customer is not subscribed to internet service."
+"Contract types offered to a customer are month-to-month, one year and two year."
+"Customer pays their bill using either bank withdrawal, credit card, mailed check."
+"Total revenue is calculated using the following equation."
+"Total revenue = total charges - total refurnds + total extra data charges + total long distance charges."
+"A customer's reason for churning can generally be categorized as attitude, competition, dissatisfaction, price, or other."
